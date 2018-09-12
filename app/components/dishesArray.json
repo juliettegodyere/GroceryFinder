@@ -1,0 +1,139 @@
+{
+    "items":[
+        {
+          "name": "Egusi Soup",
+          "region": "Igbos",
+          "price":"5000",
+          "description":"Give your family a treat with Nsala Soup, rich in carbohydrate and protein. It is spiced with pepper, crayfish and ogiri/iru, utazi leaves and Knorr seasoning. It is enjoyed with swallow meals.",
+          "ingredients":[
+            "1 medium sized Cat Fish",
+            "5 small sized raw yam cubes or yam powder",
+            "2 tablespoonful chopped Utazi Leaves",
+            "1 tablespoonful ground Crayfish",
+            "1 teaspoonful Ogiri or Iru (locust beans)",
+            "1 tablespoonful chopped Onions",
+            "Chili pepper (to taste)",
+            "1-2 Knorr cubes",
+            "Salt (to taste)"
+          ],
+          "preparation":[
+            "Cook the meat or dried fish with onions, Knorr cube and salt to taste. Cook until done and set aside.",
+            "Peel the yam cubes and boil until soft, then pound to a smooth paste, using a mortar and pestle. If what you have is yam powder, boil some hot water,add the powder and stir continuously until you get a smooth paste. Set the yam paste aside for later use.",
+            "Next, place the catfish into a pot, pour enough water to cover it, add the chopped onions, Knorr cube and salt to taste.",
+            "Cook for about 10-15 minutes or until the fish is almost done.",
+            "Now, add the pepper, crayfish and ogiri/iru.",
+            "Also, add the yam paste bit by bit and leave the soup to cook until the paste is completely dissolved and the fish is well done.",
+            "Finally, add the utazi leaves, taste for salt and simmer for 30 seconds."
+          ],
+          "image":"https://i0.wp.com/2jaysenterprises.com/wp-content/uploads/2015/05/egusi-soup.jpg"
+        },
+        {
+          "name": "Afang Soup",
+          "region": "calabar",
+          "price":"3000",
+          "description":"Give your family a treat with Nsala Soup, rich in carbohydrate and protein. It is spiced with pepper, crayfish and ogiri/iru, utazi leaves and Knorr seasoning. It is enjoyed with swallow meals.",
+          "ingredients":[
+            "1 medium sized Cat Fish",
+            "5 small sized raw yam cubes or yam powder",
+            "2 tablespoonful chopped Utazi Leaves",
+            "1 tablespoonful ground Crayfish",
+            "1 teaspoonful Ogiri or Iru (locust beans)",
+            "1 tablespoonful chopped Onions",
+            "Chili pepper (to taste)",
+            "1-2 Knorr cubes",
+            "Salt (to taste)"
+          ],
+          "preparation":[
+            "Cook the meat or dried fish with onions, Knorr cube and salt to taste. Cook until done and set aside.",
+            "Peel the yam cubes and boil until soft, then pound to a smooth paste, using a mortar and pestle. If what you have is yam powder, boil some hot water,add the powder and stir continuously until you get a smooth paste. Set the yam paste aside for later use.",
+            "Next, place the catfish into a pot, pour enough water to cover it, add the chopped onions, Knorr cube and salt to taste.",
+            "Cook for about 10-15 minutes or until the fish is almost done.",
+            "Now, add the pepper, crayfish and ogiri/iru.",
+            "Also, add the yam paste bit by bit and leave the soup to cook until the paste is completely dissolved and the fish is well done.",
+            "Finally, add the utazi leaves, taste for salt and simmer for 30 seconds."
+          ],
+          "image":"http://sisijemimah.com/wp-content/uploads/2016/08/Afang-soup-16.jpg"
+        },
+        {
+          "name": "Ewedu Soup",
+          "region": "Yoruba",
+          "price":"1000",
+          "description":"Give your family a treat with Nsala Soup, rich in carbohydrate and protein. It is spiced with pepper, crayfish and ogiri/iru, utazi leaves and Knorr seasoning. It is enjoyed with swallow meals.",
+          "ingredients":[
+            "1 medium sized Cat Fish",
+            "5 small sized raw yam cubes or yam powder",
+            "2 tablespoonful chopped Utazi Leaves",
+            "1 tablespoonful ground Crayfish",
+            "1 teaspoonful Ogiri or Iru (locust beans)",
+            "1 tablespoonful chopped Onions",
+            "Chili pepper (to taste)",
+            "1-2 Knorr cubes",
+            "Salt (to taste)"
+          ],
+          "preparation":[
+            "Cook the meat or dried fish with onions, Knorr cube and salt to taste. Cook until done and set aside.",
+            "Peel the yam cubes and boil until soft, then pound to a smooth paste, using a mortar and pestle. If what you have is yam powder, boil some hot water,add the powder and stir continuously until you get a smooth paste. Set the yam paste aside for later use.",
+            "Next, place the catfish into a pot, pour enough water to cover it, add the chopped onions, Knorr cube and salt to taste.",
+            "Cook for about 10-15 minutes or until the fish is almost done.",
+            "Now, add the pepper, crayfish and ogiri/iru.",
+            "Also, add the yam paste bit by bit and leave the soup to cook until the paste is completely dissolved and the fish is well done.",
+            "Finally, add the utazi leaves, taste for salt and simmer for 30 seconds."
+          ],
+          "image":"https://healthfacts.ng/wp-content/uploads/2015/12/Amala-and-Ewedu-768x510.jpeg"
+        },
+        {
+          "name": "Nsala Soup",
+          "region": "Delta",
+          "price":"6000",
+          "description":"Give your family a treat with Nsala Soup, rich in carbohydrate and protein. It is spiced with pepper, crayfish and ogiri/iru, utazi leaves and Knorr seasoning. It is enjoyed with swallow meals.",
+          "ingredients":[
+            "1 medium sized Cat Fish",
+            "5 small sized raw yam cubes or yam powder",
+            "2 tablespoonful chopped Utazi Leaves",
+            "1 tablespoonful ground Crayfish",
+            "1 teaspoonful Ogiri or Iru (locust beans)",
+            "1 tablespoonful chopped Onions",
+            "Chili pepper (to taste)",
+            "1-2 Knorr cubes",
+            "Salt (to taste)"
+          ],
+          "preparation":[
+            "Cook the meat or dried fish with onions, Knorr cube and salt to taste. Cook until done and set aside.",
+            "Peel the yam cubes and boil until soft, then pound to a smooth paste, using a mortar and pestle. If what you have is yam powder, boil some hot water,add the powder and stir continuously until you get a smooth paste. Set the yam paste aside for later use.",
+            "Next, place the catfish into a pot, pour enough water to cover it, add the chopped onions, Knorr cube and salt to taste.",
+            "Cook for about 10-15 minutes or until the fish is almost done.",
+            "Now, add the pepper, crayfish and ogiri/iru.",
+            "Also, add the yam paste bit by bit and leave the soup to cook until the paste is completely dissolved and the fish is well done.",
+            "Finally, add the utazi leaves, taste for salt and simmer for 30 seconds."
+          ],
+          "image":"http://orsimages.unileversolutions.com/ORS_Images/Knorr_en-NG/ofe_nsala_40_3.1.34_326X580_40_3.1.34_326X580_40_3.1.34_326X580.Jpeg"
+        },
+        {
+          "name": "Efo riro",
+          "region": "Yoruba",
+          "price":"3500",
+          "description":"Give your family a treat with Nsala Soup, rich in carbohydrate and protein. It is spiced with pepper, crayfish and ogiri/iru, utazi leaves and Knorr seasoning. It is enjoyed with swallow meals.",
+          "ingredients":[
+            "1 medium sized Cat Fish",
+            "5 small sized raw yam cubes or yam powder",
+            "2 tablespoonful chopped Utazi Leaves",
+            "1 tablespoonful ground Crayfish",
+            "1 teaspoonful Ogiri or Iru (locust beans)",
+            "1 tablespoonful chopped Onions",
+            "Chili pepper (to taste)",
+            "1-2 Knorr cubes",
+            "Salt (to taste)"
+          ],
+          "preparation":[
+            "Cook the meat or dried fish with onions, Knorr cube and salt to taste. Cook until done and set aside.",
+            "Peel the yam cubes and boil until soft, then pound to a smooth paste, using a mortar and pestle. If what you have is yam powder, boil some hot water,add the powder and stir continuously until you get a smooth paste. Set the yam paste aside for later use.",
+            "Next, place the catfish into a pot, pour enough water to cover it, add the chopped onions, Knorr cube and salt to taste.",
+            "Cook for about 10-15 minutes or until the fish is almost done.",
+            "Now, add the pepper, crayfish and ogiri/iru.",
+            "Also, add the yam paste bit by bit and leave the soup to cook until the paste is completely dissolved and the fish is well done.",
+            "Finally, add the utazi leaves, taste for salt and simmer for 30 seconds."
+          ],
+          "image":"https://s3.amazonaws.com/www.dealdey.com/system/deals/images/133802/S670x414/efo.jpg?1460101818"
+        }
+      ]
+}
